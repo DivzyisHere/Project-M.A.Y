@@ -1,5 +1,5 @@
 # Project-M.A.Y
-<img width="256" height="256" alt="Project-M A Y" src="https://github.com/user-attachments/assets/afb7c5c5-c95b-4891-8068-41efac5a47cc" />
+<img width="128" height="128" alt="Project-M A Y" src="https://github.com/user-attachments/assets/afb7c5c5-c95b-4891-8068-41efac5a47cc" />
 
 A new 3ds game in the works
 
